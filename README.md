@@ -1,11 +1,19 @@
 # Rahul Prajapati  [![GitHub followers](https://img.shields.io/github/followers/rohngonnarock?style=social)](https://github.com/rohngonnarock) [![GitHub User's stars](https://img.shields.io/github/stars/rohngonnarock?style=social)](https://github.com/rohngonnarock)
 
 ### About me:
-Sr. Web Developer with 6+ year of experience working with large enterprises. Have worked on different kind of projects over the time, from complex migration moves, performance optimization to building large-scale projects from scratch including theme and plugin developments. I also provid consultancy on decoupled projects which requires WordPress expertise.
+10+ years of experience in Object Oriented Analysis, Design, Development and integration of complex enterprise Web Applications and Mobile Applications using various tools.
+
+Specialized in :
+Microsoft.NET => C#, ASP.NET, MVC
+Ionic - Hybrid Mobile Application
+AngularJS - Web and Mobile
+Node.js - Web Api and web applicaton
+
+Specialties: ASP.NET MVC5, C#, EntityFramework, SQL, Web Api, AngularJs, Ext Js, Sencha Touch, Bootstrap, Jquery, javascript,HTML5, CSS, SASS, LESS, ChartJs, Azure, Grunt, Gulp & GitHub.
 
 #### Profile:
 
-[![LinkedIn: rohngonnarock](https://img.shields.io/badge/-rohngonnarock-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rohngonnarock/)](https://www.linkedin.com/in/rohngonnarock/) [![WordPress.org Profile](https://img.shields.io/badge/-WordPress.org-23282d?style=flat&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/rohngonnarock)](https://profiles.wordpress.org/rohngonnarock) [![Twitter Follow](https://img.shields.io/twitter/follow/rohngonnarock?style=social)](https://twitter.com/intent/follow?screen_name=rahl0love)
+[![LinkedIn: rohngonnarock](https://img.shields.io/badge/-rohngonnarock-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rohngonnarock/)](https://www.linkedin.com/in/rohngonnarock/) [![WordPress.org Profile](https://img.shields.io/badge/-WordPress.org-23282d?style=flat&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/rohngonnarock)](https://profiles.wordpress.org/rohngonnarock) [![Twitter Follow](https://img.shields.io/twitter/follow/rahl0love?style=social)](https://twitter.com/intent/follow?screen_name=rahl0love)
 
 ### Tools & Technology I work with:
 
