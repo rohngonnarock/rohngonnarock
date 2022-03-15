@@ -26,6 +26,8 @@ Specialties: ASP.NET MVC5, C#, EntityFramework, SQL, Web Api, AngularJs, Ext Js,
 [![NodeJs](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)](https://nodejs.org/en/) 
 [![WordPress](https://img.shields.io/badge/Code-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)](https://wordpress.org/)  
 [![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)](https://www.mysql.com/) 
+[![MongoDB](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)](https://www.mongodb.com/) 
+[![Ionic](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)](https://ionicframework.com/) 
 
 [![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)](https://git-scm.com/) [![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)](https://www.docker.com/)  [![Github Action](https://img.shields.io/badge/Tool-Github_Action-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a)](https://github.com/features/actions) [![VS Code](https://img.shields.io/badge/Tool-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)](https://code.visualstudio.com/) [![NPM](https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)](https://www.npmjs.com/)
 
